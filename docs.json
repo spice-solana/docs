@@ -12,13 +12,8 @@
     "tabs": [
       {
         "tab": "Get Started",
-        "groups": [
-          {
-            "group": "Overview",
-            "pages": [
-              "overview"
-            ]
-          }
+        "pages": [
+          "overview"
         ]
       }
     ],
