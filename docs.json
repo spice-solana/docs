@@ -15,25 +15,38 @@
         "pages": [
           "overview"
         ]
+      },
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "Essentials",
+            "pages": [
+              "essentials/markdown",
+              "essentials/code",
+              "essentials/images",
+              "essentials/settings",
+              "essentials/navigation",
+              "essentials/reusable-snippets"
+            ]
+          }
+        ]
       }
-    ],
-    "global": {
-      "anchors": [
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/logo.svg",
     "dark": "/logo/logo.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Roadmap",
-        "href": "/roadmap",
-        "icon": "roadmap"
-      }
-    ],
     "primary": {
       "type": "button",
       "label": "Spice.so",
