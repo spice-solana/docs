@@ -16,8 +16,11 @@
           {
             "group": " ",
             "pages": [
-              "overview",
-              "roadmap"
+              "sections/overview",
+              "sections/roadmap",
+              "sections/governance",
+              "sections/audits",
+              "sections/terms"
             ]
           }
         ]
