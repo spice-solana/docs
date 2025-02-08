@@ -4,8 +4,8 @@
   "name": "Spice",
   "colors": {
     "primary": "#16A34A",
-    "light": "#80EEFB",
-    "dark": "#80EEFB"
+    "light": "#16A34A",
+    "dark": "#16A34A"
   },
   "favicon": "/favicon.svg",
   "navigation": {
