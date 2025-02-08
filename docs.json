@@ -17,12 +17,7 @@
             "group": " ",
             "pages": [
               "overview",
-              "essentials/roadmap",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "roadmap"
             ]
           }
         ]
