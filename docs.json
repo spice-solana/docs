@@ -17,10 +17,12 @@
             "group": " ",
             "pages": [
               "overview",
-              "essentials/roadmap",
+              "roadmap/navigation",
               "essentials/code",
               "essentials/images",
-              "essentials/settings"
+              "essentials/settings",
+              "essentials/navigation",
+              "essentials/reusable-snippets"
             ]
           }
         ]
