@@ -17,10 +17,10 @@
             "group": " ",
             "pages": [
               "overview",
-              "roadmap/map",
-              "governance/building-columns",
-              "audits/shield-check",
-              "termcond/circle-info"
+              "map/roadmap",
+              "building-columns/governance",
+              "shield-check/audits",
+              "circle-info/termcond"
             ]
           }
         ]
