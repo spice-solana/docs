@@ -12,17 +12,12 @@
     "tabs": [
       {
         "tab": "Get Started",
-        "groups": [
-          {
-            "group": " ",
-            "pages": [
-              "overview",
-              "roadmap",
-              "governance",
-              "audits",
-              "terms"
-            ]
-          }
+        "pages": [
+          "overview",
+          "roadmap",
+          "governance",
+          "audits",
+          "terms"
         ]
       }
     ]
