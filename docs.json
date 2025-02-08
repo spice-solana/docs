@@ -17,12 +17,10 @@
             "group": " ",
             "pages": [
               "overview",
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "roadmap/map",
+              "governance/building-columns",
+              "audits/shield-check",
+              "termcond/circle-info"
             ]
           }
         ]
