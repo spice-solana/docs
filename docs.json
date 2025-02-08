@@ -12,23 +12,15 @@
     "tabs": [
       {
         "tab": "Get Started",
-        "pages": [
-          "overview"
-        ]
-      },
-      {
-        "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": " ",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "overview"
             ]
           },
           {
-            "group": "Essentials",
+            "group": " ",
             "pages": [
               "essentials/markdown",
               "essentials/code",
