@@ -28,6 +28,11 @@
   },
   "navbar": {
     "links": [
+      {
+        "label": "Roadmap",
+        "href": "/roadmap",
+        "icon": "roadmap"
+      }
     ],
     "primary": {
       "type": "button",
