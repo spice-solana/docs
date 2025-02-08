@@ -16,11 +16,7 @@
           {
             "group": " ",
             "pages": [
-              "overview"
-            ]
-          },
-          {
-            "pages": [
+              "overview",
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
