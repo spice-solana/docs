@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Spice",
   "colors": {
-    "primary": "#555B6D",
-    "light": "#555B6D",
-    "dark": "#555B6D"
+    "primary": "#A3ADD0",
+    "light": "#A3ADD0",
+    "dark": "#A3ADD0"
   },
   "favicon": "/favicon.svg",
   "navigation": {
